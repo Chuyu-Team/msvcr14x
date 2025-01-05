@@ -1,0 +1,6 @@
+[submodule "ThirdParty/ntdll"]
+	path = ThirdParty/ntdll
+	url = https://github.com/sonyps5201314/ntdll.git
+[submodule "ThirdParty/boost-math"]
+	path = ThirdParty/boost-math
+	url = https://github.com/boostorg/math.git
