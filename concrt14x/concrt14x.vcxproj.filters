@@ -305,9 +305,6 @@
     <ClCompile Include="$(VCToolsInstallDir)\crt\src\concrt\WorkQueue.cpp">
       <Filter>concrt</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\YY-Thunks\src\Thunks\YY_Thunks.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="concrt14x.def">
