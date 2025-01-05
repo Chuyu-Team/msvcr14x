@@ -43,7 +43,7 @@
 #
 
 !if "$(MFC_VER)" == ""
-MFC_VER=14X
+MFC_VER=140
 !endif
 
 # Name of this makefile for use in recursion

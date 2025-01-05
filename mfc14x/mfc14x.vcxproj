@@ -136,11 +136,11 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
-    <TargetName>MFC14XU</TargetName>
+    <TargetName>mfc140u</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='AnsiRelease|Win32'">
     <LinkIncremental>false</LinkIncremental>
-    <TargetName>MFC14X</TargetName>
+    <TargetName>mfc140</TargetName>
     <OutDir>$(SolutionDir)Release\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -154,11 +154,11 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <TargetName>MFC14XU</TargetName>
+    <TargetName>mfc140u</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='AnsiRelease|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <TargetName>MFC14X</TargetName>
+    <TargetName>mfc140</TargetName>
     <OutDir>$(SolutionDir)$(Platform)\Release\</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
